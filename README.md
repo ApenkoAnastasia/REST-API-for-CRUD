@@ -3,7 +3,7 @@
 In this description, I tell how to create a containerized ASP.NET Core 2.2 Web API project (web application, based on .NET Core with MySQL database and deploy using Docker-Compose.). 
 
 ## How to use it?
-1. clone this project 'git clone https://github.com/yanshengjie/Docker.NetCore.MySql.git' 
+1. clone this project 'git clone https://github.com/ApenkoAnastasia/REST-API-for-CRUD.git' 
 2. go to 'cd Docker-compose-dotnet-core-and-mysql'
 3. if you want to see this application running, you can type 'docker-compose up' from the solution directory.
 ### Checking system
