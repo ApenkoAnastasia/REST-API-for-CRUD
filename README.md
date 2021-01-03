@@ -4,7 +4,7 @@ In this description, I tell how to create a containerized ASP.NET Core 2.2 Web A
 
 ## How to use it?
 1. clone this project 'git clone https://github.com/ApenkoAnastasia/REST-API-for-CRUD.git' 
-2. go to 'cd Docker-compose-dotnet-core-and-mysql'
+2. go to 'cd REST-API-for-CRUD'
 3. if you want to see this application running, you can type 'docker-compose up' from the solution directory.
 ### Checking system
 4. If you want to see if this system works properly, access your browser following GET address - 'http://localhost:8080/all' and you should see the following results taken from the database:
